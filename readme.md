@@ -1,5 +1,5 @@
 
-Please download datasets and extract to current directory
+Please download datasets and extract to current directory  
 Please download widerface_txt and extract to ./widerface_evaluate directory
 
 ## run server AI
