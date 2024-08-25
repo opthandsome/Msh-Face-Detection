@@ -1,3 +1,9 @@
+# Face Detection
+## Download packages
+1. Download and extract to current directory  
+https://drive.google.com/file/d/14YaGtsz_A0bm3XvBvKBsGP3X4CXtLlpK/view?usp=sharing
+2. Download and move to ./widerface_evaluate directory
+https://drive.google.com/drive/folders/1bK5u4MWsgpmeJN7Jdom9PXiN0nASfI3o?usp=sharing  
 ## Run websocket server AI
 ```
 cd ./msh_face_det
@@ -34,8 +40,7 @@ Recieved testing results from server: {"response": {"map0.5": 0.8467606360508344
 **Be note that, we have**
 - there are 3 backbone: yolos, yolon, yolon5
 - there are 3 dataset_type: face_mask, wild01, lfwd 
-- results of detect phase can be download from link return
-!["see here ./runs/urls.png"](./runs/urls.png)  
+- results of detect phase can be download from link returned 
 
 **Dataset info**
 ```
